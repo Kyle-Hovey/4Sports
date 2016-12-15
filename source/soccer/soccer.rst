@@ -14,6 +14,8 @@ Sources: `History of Soccer FIFA <http://www.fifa.com/about-fifa/who-we-are/the-
 **World Cup History**
 ---------------------
 
+**Mens**
+
 +-----------------------+-----------------------+
 | History Of FIFA Mens  |         Outcome       |
 +=======================+=======================+
@@ -60,7 +62,7 @@ Sources: `History of Soccer FIFA <http://www.fifa.com/about-fifa/who-we-are/the-
 
 Source:(`FIFA World Cup History Men <http://www.fifa.com/fifa-tournaments/archive/worldcup/>`_)												
 											
-
+**Womens**
   								
 +-----------------------+-----------------------+
 |History Of FIFA Women's|         Outcome       |
